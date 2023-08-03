@@ -18,12 +18,9 @@ function CountersContextProvider(props) {
   }
 
   return (
-    <>
-      Parent State: {one} - {two}
-      <CountersContext.Provider value={value}>
-        {children}
-      </CountersContext.Provider>
-    </>
+    <CountersContext.Provider value={value}>
+      {children}
+    </CountersContext.Provider>
   )
 }
 
