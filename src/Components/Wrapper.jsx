@@ -5,7 +5,7 @@ import FunctionComponent from "./FunctionComponent";
 function Wrapper () {
   return (
     <div style={{
-      backgroundColor: 'lightGray',
+      backgroundColor: 'white',
       padding: '20px',
     }}>
       <h2>Wrapper Component</h2>
