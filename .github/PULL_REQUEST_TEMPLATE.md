@@ -1,6 +1,6 @@
 ## Developer:
 - [ ] This code is ready for review.
-- [ ] Passes all tests.
+- [ ] Passes all tests. Select one of the following:
   - [ ] I have ran the tests locally and they pass.
   - [ ] No test cases were given for this task.
 
@@ -9,7 +9,7 @@
 - [ ] The code is functional.
 
 ### Testing
-- [ ] Passes all tests.
+- [ ] Passes all tests. Select one of the following:
   - [ ] I have ran the tests locally and they pass.
   - [ ] No test cases were given for this task.
 
