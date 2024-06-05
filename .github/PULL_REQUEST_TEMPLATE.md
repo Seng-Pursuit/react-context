@@ -1,14 +1,21 @@
 ## Developer:
 - [ ] This code is ready for review.
-- [ ] I have ran the tests locally and they pass.
-- [ ] No test cases were given for this task.
+- [ ] Passes all tests. Select one of the following:
+  - [ ] I have ran the tests locally and they pass.
+  - [ ] No test cases were given for this task.
 
 ## Reviewer:
 - [ ] The code isn't horrible.
 - [ ] The code is functional.
 
+### Testing
+- [ ] Passes all tests. Select one of the following:
+  - [ ] I have ran the tests locally and they pass.
+  - [ ] No test cases were given for this task.
+
 ### Frontend
 - [ ] The added code is screen reader friendly.
+- [ ] The added code is langyified.
 
 ### Backend
-- [ ] The added code is secure. Either no new routes were added, or the new routes are protected.
+- [ ] If there's a new endpoint, the endpoint is protected.
