@@ -13,6 +13,7 @@
 
 ### Frontend
 - [ ] The added code is screen reader friendly.
+- [ ] The added code is langyified.
 
 ### Backend
 - [ ] If there's a new endpoint, the endpoint is protected.
