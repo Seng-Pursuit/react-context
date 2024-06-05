@@ -1,21 +1,23 @@
-## Developer:
-- [ ] This code is ready for review.
-- [ ] Passes all tests. Select one of the following:
-  - [ ] I have ran the tests locally and they pass.
-  - [ ] No test cases were given for this task.
-
-## Reviewer:
-- [ ] The code isn't horrible.
-- [ ] The code is functional.
-
-### Testing
-- [ ] Passes all tests. Select one of the following:
-  - [ ] I have ran the tests locally and they pass.
-  - [ ] No test cases were given for this task.
-
-### Frontend
-- [ ] The added code is screen reader friendly.
-- [ ] The added code is langyified.
+# Developer Checklist
+- [ ] The code passes basic testing
+- [ ] I have checked that the code should not break existing functionality
+- [ ] There are no major issues with the code quality based on our development standards
 
 ### Backend
 - [ ] If there's a new endpoint, the endpoint is protected.
+
+### Frontend
+- [ ] The added code is langyified.
+- [ ] The added code is screen reader friendly.
+
+# Code Reviewer Checklist
+- [ ] The code passes basic testing
+- [ ] I have checked that the code should not break existing functionality
+- [ ] There are no major issues with the code quality based on our development standards
+
+### Backend
+- [ ] If there's a new endpoint, the endpoint is protected.
+
+### Frontend
+- [ ] The added code is langyified.
+- [ ] The added code is screen reader friendly.
